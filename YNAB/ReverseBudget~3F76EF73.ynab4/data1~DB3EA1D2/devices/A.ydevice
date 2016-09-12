@@ -1,13 +1,13 @@
 {
-	"deviceType": "Desktop (AIR), OS:Windows XP 64",
-	"knowledgeInFullBudgetFile": "A-75",
-	"friendlyName": "rvz02",
-	"deviceGUID": "97CDEFF6-422F-D9C0-EFC7-0B1384412358",
-	"hasFullKnowledge": true,
-	"formatVersion": "1.2",
-	"knowledge": "A-75",
-	"highestDataVersionImported": null,
 	"shortDeviceId": "A",
+	"formatVersion": "1.2",
+	"knowledge": "A-76",
+	"knowledgeInFullBudgetFile": "A-75",
 	"YNABVersion": "Desktop version: YNAB 4 v4.3.857 (com.ynab.YNAB4.LiveCaptive), AIR Version: 4.0.0.1390",
-	"lastDataVersionFullyKnown": "4.2"
+	"hasFullKnowledge": true,
+	"lastDataVersionFullyKnown": "4.2",
+	"deviceType": "Desktop (AIR), OS:Windows XP 64",
+	"highestDataVersionImported": null,
+	"friendlyName": "rvz02",
+	"deviceGUID": "97CDEFF6-422F-D9C0-EFC7-0B1384412358"
 }
