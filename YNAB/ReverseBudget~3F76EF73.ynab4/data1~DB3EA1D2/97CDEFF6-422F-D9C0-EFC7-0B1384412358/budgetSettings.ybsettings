@@ -1,3 +1,8 @@
 <com.ynab.dataAccess.settings.MachineBudgetSettingsVO>
-	<extraDataObjects/>
+	<extraDataObjects>
+		<com.ynab.dataAccess.settings.GeneralAppSettingsForThisMachineVO>
+			<offBudgetAccountContainerState>normal</offBudgetAccountContainerState>
+			<onBudgetAccountContainerState>collapsed</onBudgetAccountContainerState>
+		</com.ynab.dataAccess.settings.GeneralAppSettingsForThisMachineVO>
+	</extraDataObjects>
 </com.ynab.dataAccess.settings.MachineBudgetSettingsVO>

@@ -1,0 +1,3 @@
+*.yfull diff=json
+*.ymeta diff=json
+*.ydevice diff=json
