@@ -1,7 +1,7 @@
 <com.ynab.dataAccess.settings.MachineBudgetSettingsVO>
 	<extraDataObjects>
 		<com.ynab.dataAccess.settings.GeneralAppSettingsForThisMachineVO>
-			<lastTabShown>Account_Savings Account</lastTabShown>
+			<lastTabShown>Budget</lastTabShown>
 			<offBudgetAccountContainerState>normal</offBudgetAccountContainerState>
 			<onBudgetAccountContainerState>collapsed</onBudgetAccountContainerState>
 		</com.ynab.dataAccess.settings.GeneralAppSettingsForThisMachineVO>
@@ -134,5 +134,10 @@
 			</accountSettingsVOs>
 			<showPreImportDialog>true</showPreImportDialog>
 		</com.ynab.view.register.settings.RegisterSettingsVO>
+		<com.ynab.view.budget.settings.BudgetSettingsVO>
+			<categoryColumnWidth>190</categoryColumnWidth>
+			<lastSelectedMonth>2016-09-01</lastSelectedMonth>
+			<showEmptyOutflowTooltip>true</showEmptyOutflowTooltip>
+		</com.ynab.view.budget.settings.BudgetSettingsVO>
 	</extraDataObjects>
 </com.ynab.dataAccess.settings.MachineBudgetSettingsVO>
