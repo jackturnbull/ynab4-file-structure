@@ -393,7 +393,8 @@
 					"sortableIndex": 0
 				}
 			],
-			"entityVersion": "A-73",
+			"isTombstone": true,
+			"entityVersion": "A-86",
 			"entityId": "EBEFE956-060C-8A91-006B-1F0D2EED6D8F",
 			"sortableIndex": 2046820351
 		}
@@ -641,7 +642,7 @@
 	"fileMetaData": {
 		"entityType": "fileMetaData",
 		"budgetDataVersion": "4.2",
-		"currentKnowledge": "A-85"
+		"currentKnowledge": "A-86"
 	},
 	"transactions": [
 		{
