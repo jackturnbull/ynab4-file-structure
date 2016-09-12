@@ -4,670 +4,671 @@
 			"entityId": "MB/2016-09",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-37",
-			"month": "2016-09-01",
 			"monthlySubCategoryBudgets": [
 				{
 					"categoryId": "A8",
-					"budgeted": 200,
+					"overspendingHandling": null,
 					"entityId": "MCB/2016-09/A8",
 					"entityType": "monthlyCategoryBudget",
 					"entityVersion": "A-75",
-					"overspendingHandling": null,
-					"parentMonthlyBudgetId": "MB/2016-09"
+					"parentMonthlyBudgetId": "MB/2016-09",
+					"budgeted": 200
 				}
-			]
+			],
+			"month": "2016-09-01"
 		},
 		{
 			"entityId": "MB/2016-08",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-38",
-			"month": "2016-08-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2016-08-01"
 		},
 		{
 			"entityId": "MB/2016-07",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-39",
-			"month": "2016-07-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2016-07-01"
 		},
 		{
 			"entityId": "MB/2016-06",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-40",
-			"month": "2016-06-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2016-06-01"
 		},
 		{
 			"entityId": "MB/2016-05",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-41",
-			"month": "2016-05-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2016-05-01"
 		},
 		{
 			"entityId": "MB/2016-04",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-42",
-			"month": "2016-04-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2016-04-01"
 		},
 		{
 			"entityId": "MB/2016-03",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-43",
-			"month": "2016-03-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2016-03-01"
 		},
 		{
 			"entityId": "MB/2016-02",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-44",
-			"month": "2016-02-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2016-02-01"
 		},
 		{
 			"entityId": "MB/2016-01",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-45",
-			"month": "2016-01-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2016-01-01"
 		},
 		{
 			"entityId": "MB/2015-12",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-46",
-			"month": "2015-12-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2015-12-01"
 		},
 		{
 			"entityId": "MB/2015-11",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-47",
-			"month": "2015-11-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2015-11-01"
 		},
 		{
 			"entityId": "MB/2015-10",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-48",
-			"month": "2015-10-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2015-10-01"
 		},
 		{
 			"entityId": "MB/2015-09",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-49",
-			"month": "2015-09-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2015-09-01"
 		},
 		{
 			"entityId": "MB/2015-08",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-50",
-			"month": "2015-08-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2015-08-01"
 		},
 		{
 			"entityId": "MB/2016-10",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-51",
-			"month": "2016-10-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2016-10-01"
 		},
 		{
 			"entityId": "MB/2016-11",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-52",
-			"month": "2016-11-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2016-11-01"
 		},
 		{
 			"entityId": "MB/2016-12",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-53",
-			"month": "2016-12-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2016-12-01"
 		},
 		{
 			"entityId": "MB/2017-01",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-54",
-			"month": "2017-01-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2017-01-01"
 		},
 		{
 			"entityId": "MB/2017-02",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-55",
-			"month": "2017-02-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2017-02-01"
 		},
 		{
 			"entityId": "MB/2017-03",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-56",
-			"month": "2017-03-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2017-03-01"
 		},
 		{
 			"entityId": "MB/2017-04",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-57",
-			"month": "2017-04-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2017-04-01"
 		},
 		{
 			"entityId": "MB/2017-05",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-58",
-			"month": "2017-05-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2017-05-01"
 		},
 		{
 			"entityId": "MB/2017-06",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-59",
-			"month": "2017-06-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2017-06-01"
 		},
 		{
 			"entityId": "MB/2017-07",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-60",
-			"month": "2017-07-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2017-07-01"
 		},
 		{
 			"entityId": "MB/2017-08",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-61",
-			"month": "2017-08-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2017-08-01"
 		},
 		{
 			"entityId": "MB/2017-09",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-62",
-			"month": "2017-09-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2017-09-01"
 		},
 		{
 			"entityId": "MB/2017-10",
 			"entityType": "monthlyBudget",
 			"entityVersion": "A-63",
-			"month": "2017-10-01",
-			"monthlySubCategoryBudgets": []
+			"monthlySubCategoryBudgets": [],
+			"month": "2017-10-01"
 		}
 	],
+	"masterCategories": [
+		{
+			"name": "Hidden Categories",
+			"sortableIndex": -1073741824,
+			"entityId": "MasterCategory/__Hidden__",
+			"entityType": "masterCategory",
+			"entityVersion": "A-1",
+			"subCategories": [],
+			"type": "OUTFLOW",
+			"expanded": true,
+			"deleteable": false
+		},
+		{
+			"name": "Giving",
+			"sortableIndex": 1879048191,
+			"entityId": "A4",
+			"entityType": "masterCategory",
+			"entityVersion": "A-2",
+			"subCategories": [
+				{
+					"name": "Tithing",
+					"sortableIndex": 0,
+					"entityId": "A5",
+					"entityType": "category",
+					"entityVersion": "A-3",
+					"cachedBalance": 0,
+					"masterCategoryId": "A4",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Charitable",
+					"sortableIndex": 1073741823,
+					"entityId": "A6",
+					"entityType": "category",
+					"entityVersion": "A-4",
+					"cachedBalance": 0,
+					"masterCategoryId": "A4",
+					"type": "OUTFLOW"
+				}
+			],
+			"type": "OUTFLOW",
+			"expanded": true,
+			"deleteable": true
+		},
+		{
+			"name": "Monthly Bills",
+			"sortableIndex": 2013265919,
+			"entityId": "A7",
+			"entityType": "masterCategory",
+			"entityVersion": "A-5",
+			"subCategories": [
+				{
+					"name": "Rent/Mortgage",
+					"sortableIndex": 0,
+					"note": "Test Note",
+					"entityId": "A8",
+					"entityType": "category",
+					"entityVersion": "A-76",
+					"cachedBalance": 0,
+					"masterCategoryId": "A7",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Phone",
+					"sortableIndex": 1073741823,
+					"entityId": "A9",
+					"entityType": "category",
+					"entityVersion": "A-7",
+					"cachedBalance": 0,
+					"masterCategoryId": "A7",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Internet",
+					"sortableIndex": 1610612735,
+					"entityId": "A10",
+					"entityType": "category",
+					"entityVersion": "A-8",
+					"cachedBalance": 0,
+					"masterCategoryId": "A7",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Cable TV",
+					"sortableIndex": 1879048191,
+					"entityId": "A11",
+					"entityType": "category",
+					"entityVersion": "A-9",
+					"cachedBalance": 0,
+					"masterCategoryId": "A7",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Electricity",
+					"sortableIndex": 2013265919,
+					"entityId": "A12",
+					"entityType": "category",
+					"entityVersion": "A-10",
+					"cachedBalance": 0,
+					"masterCategoryId": "A7",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Water",
+					"sortableIndex": 2080374783,
+					"entityId": "A13",
+					"entityType": "category",
+					"entityVersion": "A-11",
+					"cachedBalance": 0,
+					"masterCategoryId": "A7",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Natural Gas/Propane/Oil",
+					"sortableIndex": 2113929215,
+					"entityId": "A14",
+					"entityType": "category",
+					"entityVersion": "A-12",
+					"cachedBalance": 0,
+					"masterCategoryId": "A7",
+					"type": "OUTFLOW"
+				}
+			],
+			"type": "OUTFLOW",
+			"expanded": true,
+			"deleteable": true
+		},
+		{
+			"name": "Everyday Expenses",
+			"sortableIndex": 2080374783,
+			"entityId": "A15",
+			"entityType": "masterCategory",
+			"entityVersion": "A-13",
+			"subCategories": [
+				{
+					"name": "Groceries",
+					"sortableIndex": 0,
+					"entityId": "A16",
+					"entityType": "category",
+					"entityVersion": "A-14",
+					"cachedBalance": 0,
+					"masterCategoryId": "A15",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Fuel",
+					"sortableIndex": 1073741823,
+					"entityId": "A17",
+					"entityType": "category",
+					"entityVersion": "A-15",
+					"cachedBalance": 0,
+					"masterCategoryId": "A15",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Spending Money",
+					"sortableIndex": 1610612735,
+					"entityId": "A18",
+					"entityType": "category",
+					"entityVersion": "A-16",
+					"cachedBalance": 0,
+					"masterCategoryId": "A15",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Restaurants",
+					"sortableIndex": 1879048191,
+					"entityId": "A19",
+					"entityType": "category",
+					"entityVersion": "A-17",
+					"cachedBalance": 0,
+					"masterCategoryId": "A15",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Medical",
+					"sortableIndex": 2013265919,
+					"entityId": "A20",
+					"entityType": "category",
+					"entityVersion": "A-18",
+					"cachedBalance": 0,
+					"masterCategoryId": "A15",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Clothing",
+					"sortableIndex": 2080374783,
+					"entityId": "A21",
+					"entityType": "category",
+					"entityVersion": "A-19",
+					"cachedBalance": 0,
+					"masterCategoryId": "A15",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Household Goods",
+					"sortableIndex": 2113929215,
+					"entityId": "A22",
+					"entityType": "category",
+					"entityVersion": "A-20",
+					"cachedBalance": 0,
+					"masterCategoryId": "A15",
+					"type": "OUTFLOW"
+				}
+			],
+			"type": "OUTFLOW",
+			"expanded": true,
+			"deleteable": true
+		},
+		{
+			"name": "Rainy Day Funds",
+			"sortableIndex": 2113929215,
+			"entityId": "A23",
+			"entityType": "masterCategory",
+			"entityVersion": "A-21",
+			"subCategories": [
+				{
+					"name": "Emergency Fund",
+					"sortableIndex": 0,
+					"entityId": "A24",
+					"entityType": "category",
+					"entityVersion": "A-22",
+					"cachedBalance": 0,
+					"masterCategoryId": "A23",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Car Repairs",
+					"sortableIndex": 1073741823,
+					"entityId": "A25",
+					"entityType": "category",
+					"entityVersion": "A-23",
+					"cachedBalance": 0,
+					"masterCategoryId": "A23",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Home Maintenance",
+					"sortableIndex": 1610612735,
+					"entityId": "A26",
+					"entityType": "category",
+					"entityVersion": "A-24",
+					"cachedBalance": 0,
+					"masterCategoryId": "A23",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Car Insurance",
+					"sortableIndex": 1879048191,
+					"entityId": "A27",
+					"entityType": "category",
+					"entityVersion": "A-25",
+					"cachedBalance": 0,
+					"masterCategoryId": "A23",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Life Insurance",
+					"sortableIndex": 2013265919,
+					"entityId": "A28",
+					"entityType": "category",
+					"entityVersion": "A-26",
+					"cachedBalance": 0,
+					"masterCategoryId": "A23",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Health Insurance",
+					"sortableIndex": 2080374783,
+					"entityId": "A29",
+					"entityType": "category",
+					"entityVersion": "A-27",
+					"cachedBalance": 0,
+					"masterCategoryId": "A23",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Birthdays",
+					"sortableIndex": 2113929215,
+					"entityId": "A30",
+					"entityType": "category",
+					"entityVersion": "A-28",
+					"cachedBalance": 0,
+					"masterCategoryId": "A23",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Christmas",
+					"sortableIndex": 2130706431,
+					"entityId": "A31",
+					"entityType": "category",
+					"entityVersion": "A-29",
+					"cachedBalance": 0,
+					"masterCategoryId": "A23",
+					"type": "OUTFLOW"
+				}
+			],
+			"type": "OUTFLOW",
+			"expanded": true,
+			"deleteable": true
+		},
+		{
+			"name": "Savings Goals",
+			"sortableIndex": 2130706431,
+			"entityId": "A32",
+			"entityType": "masterCategory",
+			"entityVersion": "A-30",
+			"subCategories": [
+				{
+					"name": "Car Replacement",
+					"sortableIndex": 0,
+					"entityId": "A33",
+					"entityType": "category",
+					"entityVersion": "A-31",
+					"cachedBalance": 0,
+					"masterCategoryId": "A32",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Vacation",
+					"sortableIndex": 1073741823,
+					"entityId": "A34",
+					"entityType": "category",
+					"entityVersion": "A-32",
+					"cachedBalance": 0,
+					"masterCategoryId": "A32",
+					"type": "OUTFLOW"
+				}
+			],
+			"type": "OUTFLOW",
+			"expanded": true,
+			"deleteable": true
+		},
+		{
+			"name": "Debt",
+			"sortableIndex": 2139095039,
+			"entityId": "A35",
+			"entityType": "masterCategory",
+			"entityVersion": "A-33",
+			"subCategories": [
+				{
+					"name": "Car Payment",
+					"sortableIndex": 0,
+					"entityId": "A36",
+					"entityType": "category",
+					"entityVersion": "A-34",
+					"cachedBalance": 0,
+					"masterCategoryId": "A35",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Student Loan Payment",
+					"sortableIndex": 1073741823,
+					"entityId": "A37",
+					"entityType": "category",
+					"entityVersion": "A-35",
+					"cachedBalance": 0,
+					"masterCategoryId": "A35",
+					"type": "OUTFLOW"
+				},
+				{
+					"name": "Personal Loan Payment",
+					"sortableIndex": 1610612735,
+					"entityId": "A38",
+					"entityType": "category",
+					"entityVersion": "A-36",
+					"cachedBalance": 0,
+					"masterCategoryId": "A35",
+					"type": "OUTFLOW"
+				}
+			],
+			"type": "OUTFLOW",
+			"expanded": true,
+			"deleteable": true
+		},
+		{
+			"name": "New Master Category",
+			"sortableIndex": 2046820351,
+			"entityId": "EBEFE956-060C-8A91-006B-1F0D2EED6D8F",
+			"entityType": "masterCategory",
+			"entityVersion": "A-73",
+			"subCategories": [
+				{
+					"name": "New Category",
+					"sortableIndex": 0,
+					"entityId": "70A3E42F-9B31-6623-7227-1F216D7F55B7",
+					"entityType": "category",
+					"entityVersion": "A-72",
+					"cachedBalance": 0,
+					"masterCategoryId": "EBEFE956-060C-8A91-006B-1F0D2EED6D8F",
+					"type": "OUTFLOW"
+				}
+			],
+			"type": "OUTFLOW",
+			"expanded": true,
+			"deleteable": true
+		}
+	],
+	"fileMetaData": {
+		"currentKnowledge": "A-76",
+		"budgetDataVersion": "4.2",
+		"entityType": "fileMetaData"
+	},
+	"budgetMetaData": {
+		"currencyISOSymbol": null,
+		"entityId": "A2",
+		"entityType": "budgetMetaData",
+		"entityVersion": "A-0",
+		"currencyLocale": "en_GB",
+		"dateLocale": "en_GB",
+		"budgetType": "Personal",
+		"strictBudget": "TRUE"
+	},
+	"transactions": [
+		{
+			"entityVersion": "A-66",
+			"amount": 10,
+			"date": "2016-09-11",
+			"cleared": "Cleared",
+			"categoryId": null,
+			"entityId": "E8395288-6E88-4CA4-FF86-1EC5EB1FEC65",
+			"entityType": "transaction",
+			"accepted": true,
+			"accountId": "8149D264-B711-6E98-B1B3-1EC5EB08B306",
+			"payeeId": "9E6C8D20-14B3-FD47-7599-1EC5EB28562C"
+		}
+	],
+	"accounts": [
+		{
+			"sortableIndex": 0,
+			"entityId": "8149D264-B711-6E98-B1B3-1EC5EB08B306",
+			"entityType": "account",
+			"entityVersion": "A-68",
+			"lastReconciledDate": null,
+			"accountType": "Savings",
+			"onBudget": false,
+			"lastReconciledBalance": 0,
+			"hidden": true,
+			"accountName": "Savings Account",
+			"lastEnteredCheckNumber": -1
+		}
+	],
+	"scheduledTransactions": [],
+	"accountMappings": [],
 	"payees": [
 		{
+			"renameConditions": null,
 			"targetAccountId": "8149D264-B711-6E98-B1B3-1EC5EB08B306",
+			"locations": null,
 			"name": "Transfer : Savings Account",
 			"entityId": "Payee/Transfer:8149D264-B711-6E98-B1B3-1EC5EB08B306",
 			"entityType": "payee",
 			"entityVersion": "A-69",
 			"enabled": false,
-			"renameConditions": null,
 			"autoFillCategoryId": null,
-			"locations": null,
 			"autoFillMemo": null,
 			"autoFillAmount": 0
 		},
 		{
+			"renameConditions": null,
+			"locations": null,
 			"name": "Starting Balance",
 			"entityId": "9E6C8D20-14B3-FD47-7599-1EC5EB28562C",
 			"entityType": "payee",
 			"entityVersion": "A-67",
 			"enabled": false,
-			"renameConditions": null,
 			"autoFillCategoryId": null,
-			"locations": null,
 			"autoFillMemo": null,
 			"autoFillAmount": 0
 		}
-	],
-	"transactions": [
-		{
-			"entityVersion": "A-66",
-			"amount": 10,
-			"cleared": "Cleared",
-			"date": "2016-09-11",
-			"categoryId": null,
-			"entityId": "E8395288-6E88-4CA4-FF86-1EC5EB1FEC65",
-			"entityType": "transaction",
-			"payeeId": "9E6C8D20-14B3-FD47-7599-1EC5EB28562C",
-			"accepted": true,
-			"accountId": "8149D264-B711-6E98-B1B3-1EC5EB08B306"
-		}
-	],
-	"budgetMetaData": {
-		"currencyISOSymbol": null,
-		"currencyLocale": "en_GB",
-		"entityId": "A2",
-		"dateLocale": "en_GB",
-		"entityType": "budgetMetaData",
-		"entityVersion": "A-0",
-		"budgetType": "Personal",
-		"strictBudget": "TRUE"
-	},
-	"accounts": [
-		{
-			"lastReconciledBalance": 0,
-			"entityId": "8149D264-B711-6E98-B1B3-1EC5EB08B306",
-			"entityType": "account",
-			"accountName": "Savings Account",
-			"entityVersion": "A-68",
-			"accountType": "Savings",
-			"lastEnteredCheckNumber": -1,
-			"onBudget": false,
-			"hidden": true,
-			"sortableIndex": 0,
-			"lastReconciledDate": null
-		}
-	],
-	"masterCategories": [
-		{
-			"deleteable": false,
-			"name": "Hidden Categories",
-			"entityId": "MasterCategory/__Hidden__",
-			"entityType": "masterCategory",
-			"entityVersion": "A-1",
-			"type": "OUTFLOW",
-			"sortableIndex": -1073741824,
-			"expanded": true,
-			"subCategories": []
-		},
-		{
-			"deleteable": true,
-			"name": "Giving",
-			"entityId": "A4",
-			"entityType": "masterCategory",
-			"entityVersion": "A-2",
-			"type": "OUTFLOW",
-			"sortableIndex": 1879048191,
-			"expanded": true,
-			"subCategories": [
-				{
-					"name": "Tithing",
-					"entityId": "A5",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A4",
-					"entityVersion": "A-3",
-					"type": "OUTFLOW",
-					"sortableIndex": 0
-				},
-				{
-					"name": "Charitable",
-					"entityId": "A6",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A4",
-					"entityVersion": "A-4",
-					"type": "OUTFLOW",
-					"sortableIndex": 1073741823
-				}
-			]
-		},
-		{
-			"deleteable": true,
-			"name": "Monthly Bills",
-			"entityId": "A7",
-			"entityType": "masterCategory",
-			"entityVersion": "A-5",
-			"type": "OUTFLOW",
-			"sortableIndex": 2013265919,
-			"expanded": true,
-			"subCategories": [
-				{
-					"name": "Rent/Mortgage",
-					"entityId": "A8",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A7",
-					"entityVersion": "A-6",
-					"type": "OUTFLOW",
-					"sortableIndex": 0
-				},
-				{
-					"name": "Phone",
-					"entityId": "A9",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A7",
-					"entityVersion": "A-7",
-					"type": "OUTFLOW",
-					"sortableIndex": 1073741823
-				},
-				{
-					"name": "Internet",
-					"entityId": "A10",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A7",
-					"entityVersion": "A-8",
-					"type": "OUTFLOW",
-					"sortableIndex": 1610612735
-				},
-				{
-					"name": "Cable TV",
-					"entityId": "A11",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A7",
-					"entityVersion": "A-9",
-					"type": "OUTFLOW",
-					"sortableIndex": 1879048191
-				},
-				{
-					"name": "Electricity",
-					"entityId": "A12",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A7",
-					"entityVersion": "A-10",
-					"type": "OUTFLOW",
-					"sortableIndex": 2013265919
-				},
-				{
-					"name": "Water",
-					"entityId": "A13",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A7",
-					"entityVersion": "A-11",
-					"type": "OUTFLOW",
-					"sortableIndex": 2080374783
-				},
-				{
-					"name": "Natural Gas/Propane/Oil",
-					"entityId": "A14",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A7",
-					"entityVersion": "A-12",
-					"type": "OUTFLOW",
-					"sortableIndex": 2113929215
-				}
-			]
-		},
-		{
-			"deleteable": true,
-			"name": "Everyday Expenses",
-			"entityId": "A15",
-			"entityType": "masterCategory",
-			"entityVersion": "A-13",
-			"type": "OUTFLOW",
-			"sortableIndex": 2080374783,
-			"expanded": true,
-			"subCategories": [
-				{
-					"name": "Groceries",
-					"entityId": "A16",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A15",
-					"entityVersion": "A-14",
-					"type": "OUTFLOW",
-					"sortableIndex": 0
-				},
-				{
-					"name": "Fuel",
-					"entityId": "A17",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A15",
-					"entityVersion": "A-15",
-					"type": "OUTFLOW",
-					"sortableIndex": 1073741823
-				},
-				{
-					"name": "Spending Money",
-					"entityId": "A18",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A15",
-					"entityVersion": "A-16",
-					"type": "OUTFLOW",
-					"sortableIndex": 1610612735
-				},
-				{
-					"name": "Restaurants",
-					"entityId": "A19",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A15",
-					"entityVersion": "A-17",
-					"type": "OUTFLOW",
-					"sortableIndex": 1879048191
-				},
-				{
-					"name": "Medical",
-					"entityId": "A20",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A15",
-					"entityVersion": "A-18",
-					"type": "OUTFLOW",
-					"sortableIndex": 2013265919
-				},
-				{
-					"name": "Clothing",
-					"entityId": "A21",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A15",
-					"entityVersion": "A-19",
-					"type": "OUTFLOW",
-					"sortableIndex": 2080374783
-				},
-				{
-					"name": "Household Goods",
-					"entityId": "A22",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A15",
-					"entityVersion": "A-20",
-					"type": "OUTFLOW",
-					"sortableIndex": 2113929215
-				}
-			]
-		},
-		{
-			"deleteable": true,
-			"name": "Rainy Day Funds",
-			"entityId": "A23",
-			"entityType": "masterCategory",
-			"entityVersion": "A-21",
-			"type": "OUTFLOW",
-			"sortableIndex": 2113929215,
-			"expanded": true,
-			"subCategories": [
-				{
-					"name": "Emergency Fund",
-					"entityId": "A24",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A23",
-					"entityVersion": "A-22",
-					"type": "OUTFLOW",
-					"sortableIndex": 0
-				},
-				{
-					"name": "Car Repairs",
-					"entityId": "A25",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A23",
-					"entityVersion": "A-23",
-					"type": "OUTFLOW",
-					"sortableIndex": 1073741823
-				},
-				{
-					"name": "Home Maintenance",
-					"entityId": "A26",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A23",
-					"entityVersion": "A-24",
-					"type": "OUTFLOW",
-					"sortableIndex": 1610612735
-				},
-				{
-					"name": "Car Insurance",
-					"entityId": "A27",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A23",
-					"entityVersion": "A-25",
-					"type": "OUTFLOW",
-					"sortableIndex": 1879048191
-				},
-				{
-					"name": "Life Insurance",
-					"entityId": "A28",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A23",
-					"entityVersion": "A-26",
-					"type": "OUTFLOW",
-					"sortableIndex": 2013265919
-				},
-				{
-					"name": "Health Insurance",
-					"entityId": "A29",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A23",
-					"entityVersion": "A-27",
-					"type": "OUTFLOW",
-					"sortableIndex": 2080374783
-				},
-				{
-					"name": "Birthdays",
-					"entityId": "A30",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A23",
-					"entityVersion": "A-28",
-					"type": "OUTFLOW",
-					"sortableIndex": 2113929215
-				},
-				{
-					"name": "Christmas",
-					"entityId": "A31",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A23",
-					"entityVersion": "A-29",
-					"type": "OUTFLOW",
-					"sortableIndex": 2130706431
-				}
-			]
-		},
-		{
-			"deleteable": true,
-			"name": "Savings Goals",
-			"entityId": "A32",
-			"entityType": "masterCategory",
-			"entityVersion": "A-30",
-			"type": "OUTFLOW",
-			"sortableIndex": 2130706431,
-			"expanded": true,
-			"subCategories": [
-				{
-					"name": "Car Replacement",
-					"entityId": "A33",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A32",
-					"entityVersion": "A-31",
-					"type": "OUTFLOW",
-					"sortableIndex": 0
-				},
-				{
-					"name": "Vacation",
-					"entityId": "A34",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A32",
-					"entityVersion": "A-32",
-					"type": "OUTFLOW",
-					"sortableIndex": 1073741823
-				}
-			]
-		},
-		{
-			"deleteable": true,
-			"name": "Debt",
-			"entityId": "A35",
-			"entityType": "masterCategory",
-			"entityVersion": "A-33",
-			"type": "OUTFLOW",
-			"sortableIndex": 2139095039,
-			"expanded": true,
-			"subCategories": [
-				{
-					"name": "Car Payment",
-					"entityId": "A36",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A35",
-					"entityVersion": "A-34",
-					"type": "OUTFLOW",
-					"sortableIndex": 0
-				},
-				{
-					"name": "Student Loan Payment",
-					"entityId": "A37",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A35",
-					"entityVersion": "A-35",
-					"type": "OUTFLOW",
-					"sortableIndex": 1073741823
-				},
-				{
-					"name": "Personal Loan Payment",
-					"entityId": "A38",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "A35",
-					"entityVersion": "A-36",
-					"type": "OUTFLOW",
-					"sortableIndex": 1610612735
-				}
-			]
-		},
-		{
-			"deleteable": true,
-			"name": "New Master Category",
-			"entityId": "EBEFE956-060C-8A91-006B-1F0D2EED6D8F",
-			"entityType": "masterCategory",
-			"entityVersion": "A-73",
-			"type": "OUTFLOW",
-			"sortableIndex": 2046820351,
-			"expanded": true,
-			"subCategories": [
-				{
-					"name": "New Category",
-					"entityId": "70A3E42F-9B31-6623-7227-1F216D7F55B7",
-					"entityType": "category",
-					"cachedBalance": 0,
-					"masterCategoryId": "EBEFE956-060C-8A91-006B-1F0D2EED6D8F",
-					"entityVersion": "A-72",
-					"type": "OUTFLOW",
-					"sortableIndex": 0
-				}
-			]
-		}
-	],
-	"fileMetaData": {
-		"entityType": "fileMetaData",
-		"currentKnowledge": "A-75",
-		"budgetDataVersion": "4.2"
-	},
-	"scheduledTransactions": [],
-	"accountMappings": []
+	]
 }
