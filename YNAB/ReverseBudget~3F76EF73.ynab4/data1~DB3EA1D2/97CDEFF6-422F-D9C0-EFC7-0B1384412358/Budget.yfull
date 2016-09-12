@@ -426,13 +426,13 @@
 		{
 			"entityType": "payee",
 			"autoFillCategoryId": "A8",
-			"autoFillAmount": -300,
+			"autoFillAmount": -100,
 			"name": "New Payee",
 			"renameConditions": null,
 			"autoFillMemo": "",
 			"locations": null,
 			"enabled": true,
-			"entityVersion": "A-80",
+			"entityVersion": "A-82",
 			"entityId": "0E6625CB-AD64-93A0-F02A-1F4FF731A14D"
 		}
 	],
@@ -640,7 +640,7 @@
 	"fileMetaData": {
 		"entityType": "fileMetaData",
 		"budgetDataVersion": "4.2",
-		"currentKnowledge": "A-81"
+		"currentKnowledge": "A-83"
 	},
 	"transactions": [
 		{
@@ -664,6 +664,18 @@
 			"date": "2016-09-12",
 			"accountId": "8149D264-B711-6E98-B1B3-1EC5EB08B306",
 			"entityVersion": "A-81",
+			"cleared": "Uncleared",
+			"accepted": true
+		},
+		{
+			"entityType": "transaction",
+			"entityId": "14D01A0D-663D-C3F6-DFD1-1F5381331AFB",
+			"categoryId": "A8",
+			"payeeId": "0E6625CB-AD64-93A0-F02A-1F4FF731A14D",
+			"amount": -100,
+			"date": "2016-09-12",
+			"accountId": "8149D264-B711-6E98-B1B3-1EC5EB08B306",
+			"entityVersion": "A-83",
 			"cleared": "Uncleared",
 			"accepted": true
 		}
