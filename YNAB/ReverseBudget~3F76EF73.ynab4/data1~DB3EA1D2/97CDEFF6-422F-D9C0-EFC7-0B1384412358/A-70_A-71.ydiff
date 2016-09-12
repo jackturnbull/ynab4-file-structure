@@ -1,0 +1,26 @@
+{
+  "shortDeviceId": "A",
+  "startVersion": "A-70",
+  "endVersion": "A-71",
+  "deviceGUID": "97CDEFF6-422F-D9C0-EFC7-0B1384412358",
+  "publishTime": "Mon Sep 12 16:51:27 GMT+0100 2016",
+  "budgetDataGUID": null,
+  "formatVersion": null,
+  "dataVersion": "4.2",
+  "items": [
+    {
+      "entityType": "masterCategory",
+      "note": null,
+      "expanded": true,
+      "name": "New Master Category",
+      "type": "OUTFLOW",
+      "deleteable": true,
+      "isTombstone": false,
+      "entityVersion": "A-71",
+      "madeWithKnowledge": null,
+      "isResolvedConflict": false,
+      "entityId": "EBEFE956-060C-8A91-006B-1F0D2EED6D8F",
+      "sortableIndex": 2046820351
+    }
+  ]
+}
