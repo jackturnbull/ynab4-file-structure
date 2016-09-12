@@ -20,7 +20,7 @@
 						<com.ynab.view.register.settings.ColumnSettingsVO>
 							<dataField>category</dataField>
 							<visible>true</visible>
-							<width>124.15634187700171</width>
+							<width>124.15634187700172</width>
 						</com.ynab.view.register.settings.ColumnSettingsVO>
 						<com.ynab.view.register.settings.ColumnSettingsVO>
 							<dataField>checkNumber</dataField>
@@ -55,7 +55,7 @@
 						<com.ynab.view.register.settings.ColumnSettingsVO>
 							<dataField>memo</dataField>
 							<visible>true</visible>
-							<width>336.98188592981984</width>
+							<width>336.9818859298198</width>
 						</com.ynab.view.register.settings.ColumnSettingsVO>
 						<com.ynab.view.register.settings.ColumnSettingsVO>
 							<dataField>outflow</dataField>
