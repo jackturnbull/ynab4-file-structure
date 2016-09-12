@@ -20,7 +20,7 @@
 						<com.ynab.view.register.settings.ColumnSettingsVO>
 							<dataField>category</dataField>
 							<visible>true</visible>
-							<width>121.35252893411953</width>
+							<width>124.15634187700171</width>
 						</com.ynab.view.register.settings.ColumnSettingsVO>
 						<com.ynab.view.register.settings.ColumnSettingsVO>
 							<dataField>checkNumber</dataField>
@@ -40,7 +40,7 @@
 						<com.ynab.view.register.settings.ColumnSettingsVO>
 							<dataField>errorState</dataField>
 							<visible>true</visible>
-							<width>32</width>
+							<width>0</width>
 						</com.ynab.view.register.settings.ColumnSettingsVO>
 						<com.ynab.view.register.settings.ColumnSettingsVO>
 							<dataField>flag</dataField>
@@ -55,7 +55,7 @@
 						<com.ynab.view.register.settings.ColumnSettingsVO>
 							<dataField>memo</dataField>
 							<visible>true</visible>
-							<width>322.34856175920993</width>
+							<width>336.98188592981984</width>
 						</com.ynab.view.register.settings.ColumnSettingsVO>
 						<com.ynab.view.register.settings.ColumnSettingsVO>
 							<dataField>outflow</dataField>
@@ -65,7 +65,7 @@
 						<com.ynab.view.register.settings.ColumnSettingsVO>
 							<dataField>payee</dataField>
 							<visible>true</visible>
-							<width>630.2989093066706</width>
+							<width>644.8617721931785</width>
 						</com.ynab.view.register.settings.ColumnSettingsVO>
 						<com.ynab.view.register.settings.ColumnSettingsVO>
 							<dataField>workingBalance</dataField>
@@ -86,7 +86,7 @@
 						<com.ynab.view.register.settings.ColumnSettingsVO>
 							<dataField>category</dataField>
 							<visible>true</visible>
-							<width>122.43249577606683</width>
+							<width>122.43249577606684</width>
 						</com.ynab.view.register.settings.ColumnSettingsVO>
 						<com.ynab.view.register.settings.ColumnSettingsVO>
 							<dataField>date</dataField>

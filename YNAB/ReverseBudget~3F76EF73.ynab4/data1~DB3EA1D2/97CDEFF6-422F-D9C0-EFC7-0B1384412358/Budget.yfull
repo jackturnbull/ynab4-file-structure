@@ -628,18 +628,18 @@
 	"fileMetaData": {
 		"entityType": "fileMetaData",
 		"budgetDataVersion": "4.2",
-		"currentKnowledge": "A-77"
+		"currentKnowledge": "A-78"
 	},
 	"transactions": [
 		{
 			"entityType": "transaction",
 			"entityId": "E8395288-6E88-4CA4-FF86-1EC5EB1FEC65",
-			"categoryId": null,
+			"categoryId": "Category/__DeferredIncome__",
 			"payeeId": "9E6C8D20-14B3-FD47-7599-1EC5EB28562C",
 			"amount": 10,
 			"date": "2016-09-11",
 			"accountId": "8149D264-B711-6E98-B1B3-1EC5EB08B306",
-			"entityVersion": "A-66",
+			"entityVersion": "A-78",
 			"cleared": "Cleared",
 			"accepted": true
 		}
