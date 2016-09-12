@@ -384,8 +384,8 @@
 			"autoFillMemo": null,
 			"targetAccountId": "8149D264-B711-6E98-B1B3-1EC5EB08B306",
 			"locations": null,
-			"enabled": true,
-			"entityVersion": "A-65",
+			"enabled": false,
+			"entityVersion": "A-69",
 			"entityId": "Payee/Transfer:8149D264-B711-6E98-B1B3-1EC5EB08B306"
 		},
 		{
@@ -595,7 +595,7 @@
 	"fileMetaData": {
 		"entityType": "fileMetaData",
 		"budgetDataVersion": "4.2",
-		"currentKnowledge": "A-67"
+		"currentKnowledge": "A-69"
 	},
 	"transactions": [
 		{
@@ -630,11 +630,11 @@
 			"lastEnteredCheckNumber": -1,
 			"lastReconciledBalance": 0,
 			"accountType": "Savings",
-			"hidden": false,
+			"hidden": true,
 			"sortableIndex": 0,
 			"onBudget": false,
 			"accountName": "Savings Account",
-			"entityVersion": "A-64",
+			"entityVersion": "A-68",
 			"entityId": "8149D264-B711-6E98-B1B3-1EC5EB08B306"
 		}
 	]

@@ -1,6 +1,7 @@
 <com.ynab.dataAccess.settings.MachineBudgetSettingsVO>
 	<extraDataObjects>
 		<com.ynab.dataAccess.settings.GeneralAppSettingsForThisMachineVO>
+			<lastTabShown>Account_Savings Account</lastTabShown>
 			<offBudgetAccountContainerState>normal</offBudgetAccountContainerState>
 			<onBudgetAccountContainerState>collapsed</onBudgetAccountContainerState>
 		</com.ynab.dataAccess.settings.GeneralAppSettingsForThisMachineVO>
